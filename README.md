@@ -1,4 +1,5 @@
-### Hi there, I’m currently learning python 👋
+### Hi there, I’m currently studying at AGH in Krakow.👋
+### learning python🔭
 
 <!--
 **RETAJD/RETAJD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
