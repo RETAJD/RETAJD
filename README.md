@@ -1,6 +1,6 @@
 ### Hi there,👋
-### 🔭 I’m currently working on PyGame project. 
-     - visit my website : [link] (retajd.github.io)
+### 🔭 I’m currently working on PyGame project
+   # visit my website : [link] (retajd.github.io)
 
 <!--
 **RETAJD/RETAJD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
