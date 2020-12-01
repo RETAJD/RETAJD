@@ -1,5 +1,6 @@
 ### Hi there,👋
 ### 🔭 I’m currently working on PyGame project
+###  I'm learning C and Python.
    #### visit my website : [link](https://retajd.github.io)
    #### fork: https://github.com/RETAJD/benchmarking-gnns
 
