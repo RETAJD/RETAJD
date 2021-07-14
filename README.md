@@ -3,8 +3,6 @@
 - I’m currently working on PyGame project.
 - I'm learning C and Python.
 - I'm piano player.
-   #### visit my website : [link](https://retajd.github.io)
-   #### fork: https://github.com/RETAJD/benchmarking-gnns
  
 <!--
 **RETAJD/RETAJD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
