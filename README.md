@@ -1,7 +1,7 @@
 ### Hi there,👋
 ### Some info:
-- I’m currently working on PyGame project.
-- I'm learning C and Python.
+- I’m currently hard - working on leetcode. 
+- I'm learning C++ object-oriented paradigm .
 - I'm piano player.
  
 <!--
