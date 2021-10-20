@@ -1,7 +1,7 @@
 ### Hi there,👋
 ### Some info:
 - I’m currently hard-working on leetcode. 
-- I'm learning C++ object-oriented paradigm .
+- I'm learning Java and ML alg in python 
 - I'm piano player.
  
 <!--
