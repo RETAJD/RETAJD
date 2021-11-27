@@ -1,5 +1,5 @@
 
-<img src="https://lh6.googleusercontent.com/GYeHTAsKD5svx98zXDcBuSPzwMKO5LtH-LTuyfzEehodOnm_POEc0BqPQcFYwkPpQ3DrqKnI49Fc03sWVTBO=w1560-h759-rw" width="400" height="400" />
+<img src="https://lh6.googleusercontent.com/GYeHTAsKD5svx98zXDcBuSPzwMKO5LtH-LTuyfzEehodOnm_POEc0BqPQcFYwkPpQ3DrqKnI49Fc03sWVTBO=w1560-h759-rw" width="350" height="350" />
 
 ### Some info:
 - I’m currently hard-working on leetcode. 
