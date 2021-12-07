@@ -4,6 +4,7 @@
 -->
 
 <img src="https://github.com/RETAJD/RETAJD/blob/main/gifgif%20(1).gif" width="350" height="350" />
+
 ### Some info:
 - I’m currently hard-working on leetcode. 
 - I'm learning Java and ML alg in python 
