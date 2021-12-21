@@ -1,13 +1,6 @@
-<!--
-<img src="https://lh6.googleusercontent.com/GYeHTAsKD5svx98zXDcBuSPzwMKO5LtH-LTuyfzEehodOnm_POEc0BqPQcFYwkPpQ3DrqKnI49Fc03sWVTBO=w1560-h759-rw" width="350" height="350" />
-![Hey](https://github.com/RETAJD/RETAJD/blob/main/gifgif%20(1).gif)
--->
-
-<img src="https://github.com/RETAJD/RETAJD/blob/main/gifgif%20(1).gif" width="350" height="350" />
 
 ### Some info:
 - I’m currently hard-working on leetcode. 
-- I'm learning Java and ML alg in python 
 - I'm piano player.🎹
  
 <!--
