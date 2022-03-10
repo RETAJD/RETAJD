@@ -1,8 +1,3 @@
-
-### Some info:
-- I’m currently hard-working on leetcode. 
-- I'm piano player.🎹
- 
 <!--
 **RETAJD/RETAJD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
