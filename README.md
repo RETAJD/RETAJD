@@ -1,4 +1,5 @@
-I'm a senior computer science student passionate about artificial intelligence and eager to advance my programming skills with the latest technologies.
+I'm a senior computer science student passionate about artificial intelligence and eager to advance my programming skills with the latest technologies. 
+I'm particularly interested in working with Golang.
 <!--
 **RETAJD/RETAJD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
